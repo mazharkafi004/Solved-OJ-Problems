@@ -1,4 +1,3 @@
-#include<stdio.h>
 #include <iostream>
 #include <string>
 #include <algorithm>
@@ -7,10 +6,10 @@ using namespace std;
 
 int main()
 {
-    string a, b;
-    cin >> a >> b;
-    reverse(a.begin(), a.end());
-    if (a == b)
+    string s, t;
+    cin >> s >> t;
+    reverse(t.begin(), t.end());
+    if (s == t)
     {
         cout << "YES" << endl;
     }
