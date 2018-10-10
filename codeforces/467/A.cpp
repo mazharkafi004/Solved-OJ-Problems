@@ -1,14 +1,22 @@
 #include<bits/stdc++.h>
 
 using namespace std;
-int main () {
-int a=0,b,c,i,n,p,q;
-cin>>n;
-for(i=0;i<n;i++) {
-    cin>>p>>q;
-    if(q-(p+2)>=0) {
-        a++;
-    }
-}
-cout<<a<<endl;
+
+int main() {
+
+     int a,b,x,k,i,count=0;
+     cin>> k;
+
+            for(i=1;i<=k;i++) {
+
+                cin>> a>> b;
+                x=b-a;
+                if(x>=2) {
+                    count++;
+                }
+               
+            }
+
+
+               cout<<count<<endl;
 }
