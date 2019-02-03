@@ -1,4 +1,20 @@
 {
+  "CF49438998": {
+    "contest_id": 1102,
+    "language": "GNU C++17",
+    "path": "codeforces\\1102\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Integer Sequence Dividing",
+    "problem_url": "https://codeforces.com/contest/1102/problem/A",
+    "submission_id": "CF49438998",
+    "submission_url": "https://codeforces.com/contest/1102/submission/49438998",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Feb/04/2019 02:02"
+  },
   "CF49439084": {
     "contest_id": 746,
     "language": "GNU C++17",
