@@ -1,4 +1,21 @@
 {
+  "CF49439084": {
+    "contest_id": 746,
+    "language": "GNU C++17",
+    "path": "codeforces\\746\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Compote",
+    "problem_url": "https://codeforces.com/contest/746/problem/A",
+    "submission_id": "CF49439084",
+    "submission_url": "https://codeforces.com/contest/746/submission/49439084",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Feb/04/2019 02:04"
+  },
   "CF49508642": {
     "contest_id": 122,
     "language": "GNU C++17",
