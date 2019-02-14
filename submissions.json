@@ -1,4 +1,20 @@
 {
+  "CF49914947": {
+    "contest_id": 228,
+    "language": "GNU C++17",
+    "path": "codeforces\\228\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Is your horseshoe on the other hoof?",
+    "problem_url": "https://codeforces.com/contest/228/problem/A",
+    "submission_id": "CF49914947",
+    "submission_url": "https://codeforces.com/contest/228/submission/49914947",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Feb/14/2019 22:01"
+  },
   "CF50257646": {
     "contest_id": 959,
     "language": "GNU C++17",
