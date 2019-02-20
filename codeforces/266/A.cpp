@@ -1,16 +1,16 @@
 #include<bits/stdc++.h>
 
 using namespace std;
+
 int main () {
-int a=0,b,c,i,n;
-char p[100];
+int n,count=0;
+char b[1000];
 cin>>n;
-for(i=0;i<n;i++) {
-    cin>>p[i];
-}
-for(i=0;i<n;i++) {
-   if( p[i]==p[i+1]) {
-    a++;}
-}
-cout<<a<<endl;
+cin>>b;
+
+for(int i=0;i<n;i++){
+        if(b[i]==b[i+1]) count++;
+    }
+cout<<count<<endl;
+
 }
