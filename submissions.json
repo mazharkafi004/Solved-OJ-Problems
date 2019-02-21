@@ -1,4 +1,21 @@
 {
+  "CF50292153": {
+    "contest_id": 734,
+    "language": "GNU C++17",
+    "path": "codeforces\\734\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Anton and Danik",
+    "problem_url": "https://codeforces.com/contest/734/problem/A",
+    "submission_id": "CF50292153",
+    "submission_url": "https://codeforces.com/contest/734/submission/50292153",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Feb/22/2019 00:03"
+  },
   "CF50293622": {
     "contest_id": 25,
     "language": "GNU C++17",
