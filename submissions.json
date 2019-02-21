@@ -1,4 +1,21 @@
 {
+  "CF50285968": {
+    "contest_id": 770,
+    "language": "GNU C++17",
+    "path": "codeforces\\770\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "New Password",
+    "problem_url": "https://codeforces.com/contest/770/problem/A",
+    "submission_id": "CF50285968",
+    "submission_url": "https://codeforces.com/contest/770/submission/50285968",
+    "tags": [
+      "*special problem",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Feb/21/2019 20:52"
+  },
   "CF50292153": {
     "contest_id": 734,
     "language": "GNU C++17",
