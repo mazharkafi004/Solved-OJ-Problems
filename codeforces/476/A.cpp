@@ -2,35 +2,23 @@
 
 using namespace std;
 
-int main() {
- int n,m;
- cin>>n>>m;
- int a,b,c,d;
-a=n%2;
-b=n/2;
-if(m>n) {
-        cout<<-1<<endl;}
-else {
- if(a==0 ) {
-   if(b%m==0) {
-    cout<<b<<endl;
-    return 0;
+int main()
+{
+   int a,b,c;
+
+   cin>>a>>b;
+    c=a/2+a%2;
+    while(c<=a) {
+        if(c%b==0) {
+            break;
+        }
+        c++;
+    }
+   if(c>a) {
+    cout<<"-1"<<endl;
    }
    else {
-       d=b/m;
-    cout<<(m)*(d+1)<<endl;
+    cout<<c<<endl;
    }
+
 }
-else {
-//        if(b%m==0) {
-//    cout<<b+1<<endl;
-//    return 0;
-//   }
-//   else {
-       d=b/m;
-    cout<<(m)*(d+1)<<endl;
-   }
-
-}}
-
-
