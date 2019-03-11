@@ -1,4 +1,21 @@
 {
+  "CF51150060": {
+    "contest_id": 186,
+    "language": "GNU C++17",
+    "path": "codeforces\\186\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Comparing Strings",
+    "problem_url": "https://codeforces.com/contest/186/problem/A",
+    "submission_id": "CF51150060",
+    "submission_url": "https://codeforces.com/contest/186/submission/51150060",
+    "tags": [
+      "implementation",
+      "strings",
+      "*1100"
+    ],
+    "timestamp": "Mar/11/2019 13:03"
+  },
   "CF51150372": {
     "contest_id": 29,
     "language": "GNU C++17",
