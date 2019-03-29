@@ -1,4 +1,21 @@
 {
+  "CF51992291": {
+    "contest_id": 870,
+    "language": "GNU C++17",
+    "path": "codeforces\\870\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Search for Pretty Integers",
+    "problem_url": "https://codeforces.com/contest/870/problem/A",
+    "submission_id": "CF51992291",
+    "submission_url": "https://codeforces.com/contest/870/submission/51992291",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Mar/30/2019 03:02"
+  },
   "CF52015873": {
     "contest_id": 1118,
     "language": "GNU C++17",
