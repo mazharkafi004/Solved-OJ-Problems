@@ -1,4 +1,20 @@
 {
+  "CF52362370": {
+    "contest_id": 45,
+    "language": "Java 8",
+    "path": "codeforces\\45\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Codecraft III",
+    "problem_url": "https://codeforces.com/contest/45/problem/A",
+    "submission_id": "CF52362370",
+    "submission_url": "https://codeforces.com/contest/45/submission/52362370",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Apr/06/2019 02:44"
+  },
   "CF52365396": {
     "contest_id": 1145,
     "language": "GNU C++17",
