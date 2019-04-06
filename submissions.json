@@ -1,4 +1,21 @@
 {
+  "CF52365431": {
+    "contest_id": 918,
+    "language": "GNU C++17",
+    "path": "codeforces\\918\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Eleven",
+    "problem_url": "https://codeforces.com/contest/918/problem/A",
+    "submission_id": "CF52365431",
+    "submission_url": "https://codeforces.com/contest/918/submission/52365431",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Apr/06/2019 06:39"
+  },
   "CF52485889": {
     "contest_id": 1131,
     "language": "GNU C++17",
