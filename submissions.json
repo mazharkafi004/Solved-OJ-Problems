@@ -1,4 +1,19 @@
 {
+  "CF52365396": {
+    "contest_id": 1145,
+    "language": "GNU C++17",
+    "path": "codeforces\\1145\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Kanban Numbers",
+    "problem_url": "https://codeforces.com/contest/1145/problem/B",
+    "submission_id": "CF52365396",
+    "submission_url": "https://codeforces.com/contest/1145/submission/52365396",
+    "tags": [
+      "brute force"
+    ],
+    "timestamp": "Apr/06/2019 06:34"
+  },
   "CF52365431": {
     "contest_id": 918,
     "language": "GNU C++17",
