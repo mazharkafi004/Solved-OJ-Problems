@@ -1,11 +1,14 @@
 #include<bits/stdc++.h>
 
 using namespace std;
-
-int main()
-{
-long long n,ans;
+int main() {
+int n,a,b=0,c=0,i;
 cin>>n;
-ans=(((n+1)*(n-1)*(n))/6)+n;
-cout<<ans<<endl;
+  for(int i=1;i<=n;i++)
+    {
+         b+=i*(n-i);
+         c=n+b;
+    }
+
+    cout<<c<<endl;
 }
