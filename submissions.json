@@ -1,4 +1,21 @@
 {
+  "CF52945223": {
+    "contest_id": 194,
+    "language": "Java 8",
+    "path": "codeforces\\194\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Exams",
+    "problem_url": "https://codeforces.com/contest/194/problem/A",
+    "submission_id": "CF52945223",
+    "submission_url": "https://codeforces.com/contest/194/submission/52945223",
+    "tags": [
+      "implementation",
+      "math",
+      "*900"
+    ],
+    "timestamp": "Apr/18/2019 17:15"
+  },
   "CF53115486": {
     "contest_id": 160,
     "language": "GNU C++17",
