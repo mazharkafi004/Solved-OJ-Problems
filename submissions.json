@@ -1,4 +1,20 @@
 {
+  "CF63228746": {
+    "contest_id": 570,
+    "language": "GNU C++17",
+    "path": "codeforces\\570\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Elections",
+    "problem_url": "https://codeforces.com/contest/570/problem/A",
+    "submission_id": "CF63228746",
+    "submission_url": "https://codeforces.com/contest/570/submission/63228746",
+    "tags": [
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Oct/23/2019 16:13"
+  },
   "CF70426897": {
     "contest_id": 1296,
     "language": "GNU C++14",
