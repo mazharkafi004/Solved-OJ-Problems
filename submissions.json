@@ -1,4 +1,20 @@
 {
+  "CF74639861": {
+    "contest_id": 38,
+    "language": "GNU C++14",
+    "path": "codeforces\\38\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Army",
+    "problem_url": "https://codeforces.com/contest/38/problem/A",
+    "submission_id": "CF74639861",
+    "submission_url": "https://codeforces.com/contest/38/submission/74639861",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Mar/28/2020 18:37"
+  },
   "CF74888038": {
     "contest_id": 186,
     "language": "GNU C++14",
