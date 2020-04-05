@@ -1,4 +1,21 @@
 {
+  "CF75538251": {
+    "contest_id": 16,
+    "language": "GNU C++14",
+    "path": "codeforces\\16\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Monitor",
+    "problem_url": "https://codeforces.com/contest/16/problem/C",
+    "submission_id": "CF75538251",
+    "submission_url": "https://codeforces.com/contest/16/submission/75538251",
+    "tags": [
+      "binary search",
+      "number theory",
+      "*1800"
+    ],
+    "timestamp": "Apr/05/2020 12:12"
+  },
   "CF75552798": {
     "contest_id": 1091,
     "language": "GNU C++14",
