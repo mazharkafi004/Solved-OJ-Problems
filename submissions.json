@@ -1,4 +1,20 @@
 {
+  "CF75653779": {
+    "contest_id": 386,
+    "language": "GNU C++14",
+    "path": "codeforces\\386\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Second-Price Auction",
+    "problem_url": "https://codeforces.com/contest/386/problem/A",
+    "submission_id": "CF75653779",
+    "submission_url": "https://codeforces.com/contest/386/submission/75653779",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Apr/06/2020 18:08"
+  },
   "CF75735870": {
     "contest_id": 820,
     "language": "GNU C++14",
