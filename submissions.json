@@ -1,4 +1,20 @@
 {
+  "CF75735870": {
+    "contest_id": 820,
+    "language": "GNU C++14",
+    "path": "codeforces\\820\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Mister B and Book Reading",
+    "problem_url": "https://codeforces.com/contest/820/problem/A",
+    "submission_id": "CF75735870",
+    "submission_url": "https://codeforces.com/contest/820/submission/75735870",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Apr/07/2020 17:01"
+  },
   "CF75768193": {
     "contest_id": 750,
     "language": "GNU C++14",
