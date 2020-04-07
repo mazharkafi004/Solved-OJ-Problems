@@ -1,4 +1,20 @@
 {
+  "CF75781784": {
+    "contest_id": 1223,
+    "language": "GNU C++14",
+    "path": "codeforces\\1223\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "CME",
+    "problem_url": "https://codeforces.com/contest/1223/problem/A",
+    "submission_id": "CF75781784",
+    "submission_url": "https://codeforces.com/contest/1223/submission/75781784",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Apr/08/2020 01:46"
+  },
   "CF75785412": {
     "contest_id": 401,
     "language": "GNU C++14",
