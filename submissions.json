@@ -1,4 +1,20 @@
 {
+  "CF76417878": {
+    "contest_id": 710,
+    "language": "GNU C++14",
+    "path": "codeforces\\710\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "King Moves",
+    "problem_url": "https://codeforces.com/contest/710/problem/A",
+    "submission_id": "CF76417878",
+    "submission_url": "https://codeforces.com/contest/710/submission/76417878",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Apr/13/2020 00:23"
+  },
   "CF76419031": {
     "contest_id": 431,
     "language": "GNU C++14",
