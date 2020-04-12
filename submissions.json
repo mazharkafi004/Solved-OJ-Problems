@@ -1,4 +1,21 @@
 {
+  "CF76317505": {
+    "contest_id": 1334,
+    "language": "GNU C++14",
+    "path": "codeforces\\1334\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Middle Class",
+    "problem_url": "https://codeforces.com/contest/1334/problem/B",
+    "submission_id": "CF76317505",
+    "submission_url": "https://codeforces.com/contest/1334/submission/76317505",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*1100"
+    ],
+    "timestamp": "Apr/12/2020 16:43"
+  },
   "CF76405876": {
     "contest_id": 139,
     "language": "GNU C++14",
