@@ -1,4 +1,21 @@
 {
+  "CF76317502": {
+    "contest_id": 1334,
+    "language": "GNU C++14",
+    "path": "codeforces\\1334\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Level Statistics",
+    "problem_url": "https://codeforces.com/contest/1334/problem/A",
+    "submission_id": "CF76317502",
+    "submission_url": "https://codeforces.com/contest/1334/submission/76317502",
+    "tags": [
+      "implementation",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Apr/12/2020 16:43"
+  },
   "CF76317505": {
     "contest_id": 1334,
     "language": "GNU C++14",
