@@ -1,4 +1,20 @@
 {
+  "CF76767537": {
+    "contest_id": 456,
+    "language": "GNU C++14",
+    "path": "codeforces\\456\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Laptops",
+    "problem_url": "https://codeforces.com/contest/456/problem/A",
+    "submission_id": "CF76767537",
+    "submission_url": "https://codeforces.com/contest/456/submission/76767537",
+    "tags": [
+      "sortings",
+      "*1100"
+    ],
+    "timestamp": "Apr/15/2020 13:10"
+  },
   "CF76768639": {
     "contest_id": 1294,
     "language": "GNU C++14",
