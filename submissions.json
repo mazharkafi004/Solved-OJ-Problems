@@ -1,4 +1,20 @@
 {
+  "CF77151678": {
+    "contest_id": 20,
+    "language": "GNU C++14",
+    "path": "codeforces\\20\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Equation",
+    "problem_url": "https://codeforces.com/contest/20/problem/B",
+    "submission_id": "CF77151678",
+    "submission_url": "https://codeforces.com/contest/20/submission/77151678",
+    "tags": [
+      "math",
+      "*2000"
+    ],
+    "timestamp": "Apr/18/2020 13:03"
+  },
   "CF77157584": {
     "contest_id": 706,
     "language": "GNU C++14",
