@@ -1,4 +1,20 @@
 {
+  "CF77137859": {
+    "contest_id": 1244,
+    "language": "GNU C++14",
+    "path": "codeforces\\1244\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Pens and Pencils",
+    "problem_url": "https://codeforces.com/contest/1244/problem/A",
+    "submission_id": "CF77137859",
+    "submission_url": "https://codeforces.com/contest/1244/submission/77137859",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Apr/18/2020 09:14"
+  },
   "CF77137903": {
     "contest_id": 1176,
     "language": "GNU C++14",
