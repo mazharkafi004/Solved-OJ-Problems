@@ -1,4 +1,20 @@
 {
+  "CF77204512": {
+    "contest_id": 1331,
+    "language": "GNU C++14",
+    "path": "codeforces\\1331\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Limericks",
+    "problem_url": "https://codeforces.com/contest/1331/problem/B",
+    "submission_id": "CF77204512",
+    "submission_url": "https://codeforces.com/contest/1331/submission/77204512",
+    "tags": [
+      "math",
+      "number theory"
+    ],
+    "timestamp": "Apr/18/2020 22:28"
+  },
   "CF77267895": {
     "contest_id": 950,
     "language": "GNU C++14",
