@@ -1,4 +1,20 @@
 {
+  "CF77285758": {
+    "contest_id": 899,
+    "language": "GNU C++14",
+    "path": "codeforces\\899\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Months and Years",
+    "problem_url": "https://codeforces.com/contest/899/problem/B",
+    "submission_id": "CF77285758",
+    "submission_url": "https://codeforces.com/contest/899/submission/77285758",
+    "tags": [
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Apr/19/2020 20:43"
+  },
   "CF77340859": {
     "contest_id": 702,
     "language": "GNU C++14",
