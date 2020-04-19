@@ -1,4 +1,20 @@
 {
+  "CF77274016": {
+    "contest_id": 448,
+    "language": "GNU C++14",
+    "path": "codeforces\\448\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Rewards",
+    "problem_url": "https://codeforces.com/contest/448/problem/A",
+    "submission_id": "CF77274016",
+    "submission_url": "https://codeforces.com/contest/448/submission/77274016",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Apr/19/2020 18:29"
+  },
   "CF77285758": {
     "contest_id": 899,
     "language": "GNU C++14",
