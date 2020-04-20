@@ -1,4 +1,21 @@
 {
+  "CF77374078": {
+    "contest_id": 793,
+    "language": "GNU C++14",
+    "path": "codeforces\\793\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Oleg and shares",
+    "problem_url": "https://codeforces.com/contest/793/problem/A",
+    "submission_id": "CF77374078",
+    "submission_url": "https://codeforces.com/contest/793/submission/77374078",
+    "tags": [
+      "implementation",
+      "math",
+      "*900"
+    ],
+    "timestamp": "Apr/20/2020 20:45"
+  },
   "CF77382115": {
     "contest_id": 998,
     "language": "GNU C++14",
