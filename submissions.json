@@ -1,4 +1,20 @@
 {
+  "CF77344165": {
+    "contest_id": 839,
+    "language": "GNU C++14",
+    "path": "codeforces\\839\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Arya and Bran",
+    "problem_url": "https://codeforces.com/contest/839/problem/A",
+    "submission_id": "CF77344165",
+    "submission_url": "https://codeforces.com/contest/839/submission/77344165",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Apr/20/2020 15:20"
+  },
   "CF77345593": {
     "contest_id": 427,
     "language": "GNU C++14",
