@@ -1,4 +1,20 @@
 {
+  "CF77438215": {
+    "contest_id": 716,
+    "language": "GNU C++14",
+    "path": "codeforces\\716\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Crazy Computer",
+    "problem_url": "https://codeforces.com/contest/716/problem/A",
+    "submission_id": "CF77438215",
+    "submission_url": "https://codeforces.com/contest/716/submission/77438215",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Apr/21/2020 12:56"
+  },
   "CF77442736": {
     "contest_id": 580,
     "language": "GNU C++14",
