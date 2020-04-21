@@ -1,4 +1,21 @@
 {
+  "CF77469009": {
+    "contest_id": 898,
+    "language": "GNU C++14",
+    "path": "codeforces\\898\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Rounding",
+    "problem_url": "https://codeforces.com/contest/898/problem/A",
+    "submission_id": "CF77469009",
+    "submission_url": "https://codeforces.com/contest/898/submission/77469009",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Apr/21/2020 19:00"
+  },
   "CF77473649": {
     "contest_id": 681,
     "language": "GNU C++14",
