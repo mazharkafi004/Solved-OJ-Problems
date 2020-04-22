@@ -1,4 +1,20 @@
 {
+  "CF77625874": {
+    "contest_id": 174,
+    "language": "GNU C++14",
+    "path": "codeforces\\174\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Problem About Equation",
+    "problem_url": "https://codeforces.com/contest/174/problem/A",
+    "submission_id": "CF77625874",
+    "submission_url": "https://codeforces.com/contest/174/submission/77625874",
+    "tags": [
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Apr/22/2020 15:02"
+  },
   "CF77634212": {
     "contest_id": 1068,
     "language": "GNU C++14",
