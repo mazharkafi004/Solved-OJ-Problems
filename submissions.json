@@ -1,4 +1,20 @@
 {
+  "CF77659618": {
+    "contest_id": 1099,
+    "language": "GNU C++14",
+    "path": "codeforces\\1099\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Snowball",
+    "problem_url": "https://codeforces.com/contest/1099/problem/A",
+    "submission_id": "CF77659618",
+    "submission_url": "https://codeforces.com/contest/1099/submission/77659618",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Apr/22/2020 20:24"
+  },
   "CF77789623": {
     "contest_id": 1341,
     "language": "GNU C++14",
