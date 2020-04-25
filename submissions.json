@@ -1,4 +1,21 @@
 {
+  "CF78055388": {
+    "contest_id": 168,
+    "language": "GNU C++14",
+    "path": "codeforces\\168\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Wizards and Demonstration",
+    "problem_url": "https://codeforces.com/contest/168/problem/A",
+    "submission_id": "CF78055388",
+    "submission_url": "https://codeforces.com/contest/168/submission/78055388",
+    "tags": [
+      "implementation",
+      "math",
+      "*900"
+    ],
+    "timestamp": "Apr/26/2020 00:23"
+  },
   "CF78067653": {
     "contest_id": 1186,
     "language": "GNU C++14",
