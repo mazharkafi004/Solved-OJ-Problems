@@ -1,4 +1,20 @@
 {
+  "CF78406606": {
+    "contest_id": 1080,
+    "language": "GNU C++14",
+    "path": "codeforces\\1080\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Margarite and the best present",
+    "problem_url": "https://codeforces.com/contest/1080/problem/B",
+    "submission_id": "CF78406606",
+    "submission_url": "https://codeforces.com/contest/1080/submission/78406606",
+    "tags": [
+      "math",
+      "*900"
+    ],
+    "timestamp": "Apr/28/2020 22:46"
+  },
   "CF78454817": {
     "contest_id": 935,
     "language": "GNU C++14",
