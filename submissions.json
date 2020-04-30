@@ -1,4 +1,20 @@
 {
+  "CF78577779": {
+    "contest_id": 368,
+    "language": "GNU C++14",
+    "path": "codeforces\\368\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Sereja and Coat Rack",
+    "problem_url": "https://codeforces.com/contest/368/problem/A",
+    "submission_id": "CF78577779",
+    "submission_url": "https://codeforces.com/contest/368/submission/78577779",
+    "tags": [
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Apr/30/2020 20:47"
+  },
   "CF78583924": {
     "contest_id": 443,
     "language": "GNU C++14",
