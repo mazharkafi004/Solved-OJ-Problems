@@ -1,4 +1,20 @@
 {
+  "CF78733635": {
+    "contest_id": 1030,
+    "language": "GNU C++17",
+    "path": "codeforces\\1030\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Vasya and Cornfield",
+    "problem_url": "https://codeforces.com/contest/1030/problem/B",
+    "submission_id": "CF78733635",
+    "submission_url": "https://codeforces.com/contest/1030/submission/78733635",
+    "tags": [
+      "geometry",
+      "*1100"
+    ],
+    "timestamp": "May/01/2020 22:37"
+  },
   "CF78766449": {
     "contest_id": 1300,
     "language": "GNU C++17",
