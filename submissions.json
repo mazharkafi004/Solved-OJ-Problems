@@ -1,4 +1,21 @@
 {
+  "CF79046355": {
+    "contest_id": 118,
+    "language": "GNU C++14",
+    "path": "codeforces\\118\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Present from Lena",
+    "problem_url": "https://codeforces.com/contest/118/problem/B",
+    "submission_id": "CF79046355",
+    "submission_url": "https://codeforces.com/contest/118/submission/79046355",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "May/05/2020 16:27"
+  },
   "CF79064441": {
     "contest_id": 548,
     "language": "GNU C++14",
