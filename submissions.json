@@ -1,4 +1,22 @@
 {
+  "CF79371621": {
+    "contest_id": 11,
+    "language": "GNU C++14",
+    "path": "codeforces\\11\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Increasing Sequence",
+    "problem_url": "https://codeforces.com/contest/11/problem/A",
+    "submission_id": "CF79371621",
+    "submission_url": "https://codeforces.com/contest/11/submission/79371621",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "math",
+      "*900"
+    ],
+    "timestamp": "May/08/2020 17:16"
+  },
   "CF79380523": {
     "contest_id": 1230,
     "language": "GNU C++14",
