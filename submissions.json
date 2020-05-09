@@ -1,4 +1,21 @@
 {
+  "CF79455072": {
+    "contest_id": 92,
+    "language": "GNU C++14",
+    "path": "codeforces\\92\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Chips",
+    "problem_url": "https://codeforces.com/contest/92/problem/A",
+    "submission_id": "CF79455072",
+    "submission_url": "https://codeforces.com/contest/92/submission/79455072",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "May/09/2020 16:48"
+  },
   "CF79459495": {
     "contest_id": 1204,
     "language": "GNU C++14",
