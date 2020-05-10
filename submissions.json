@@ -1,4 +1,21 @@
 {
+  "CF79642598": {
+    "contest_id": 630,
+    "language": "GNU C++14",
+    "path": "codeforces\\630\\R.cpp",
+    "platform": "Codeforces",
+    "problem_index": "R",
+    "problem_name": "Game",
+    "problem_url": "https://codeforces.com/contest/630/problem/R",
+    "submission_id": "CF79642598",
+    "submission_url": "https://codeforces.com/contest/630/submission/79642598",
+    "tags": [
+      "games",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "May/10/2020 16:40"
+  },
   "CF79644803": {
     "contest_id": 630,
     "language": "GNU C++14",
