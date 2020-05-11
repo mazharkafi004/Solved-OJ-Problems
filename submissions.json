@@ -1,4 +1,21 @@
 {
+  "CF79734543": {
+    "contest_id": 864,
+    "language": "GNU C++14",
+    "path": "codeforces\\864\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Fair Game",
+    "problem_url": "https://codeforces.com/contest/864/problem/A",
+    "submission_id": "CF79734543",
+    "submission_url": "https://codeforces.com/contest/864/submission/79734543",
+    "tags": [
+      "implementation",
+      "sortings",
+      "*1000"
+    ],
+    "timestamp": "May/11/2020 17:45"
+  },
   "CF79743644": {
     "contest_id": 239,
     "language": "GNU C++14",
