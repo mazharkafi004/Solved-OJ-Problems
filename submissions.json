@@ -1,4 +1,20 @@
 {
+  "CF80884758": {
+    "contest_id": 146,
+    "language": "GNU C++14",
+    "path": "codeforces\\146\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Lucky Ticket",
+    "problem_url": "https://codeforces.com/contest/146/problem/A",
+    "submission_id": "CF80884758",
+    "submission_url": "https://codeforces.com/contest/146/submission/80884758",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "May/22/2020 01:47"
+  },
   "CF80944841": {
     "contest_id": 1213,
     "language": "GNU C++14",
