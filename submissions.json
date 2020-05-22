@@ -1,4 +1,21 @@
 {
+  "CF80969351": {
+    "contest_id": 1169,
+    "language": "GNU C++14",
+    "path": "codeforces\\1169\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Circle Metro",
+    "problem_url": "https://codeforces.com/contest/1169/problem/A",
+    "submission_id": "CF80969351",
+    "submission_url": "https://codeforces.com/contest/1169/submission/80969351",
+    "tags": [
+      "implementation",
+      "math",
+      "*900"
+    ],
+    "timestamp": "May/23/2020 02:43"
+  },
   "CF81004242": {
     "contest_id": 869,
     "language": "GNU C++14",
