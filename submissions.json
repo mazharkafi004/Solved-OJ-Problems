@@ -1,4 +1,20 @@
 {
+  "CF80964550": {
+    "contest_id": 234,
+    "language": "GNU C++14",
+    "path": "codeforces\\234\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Lefthanders and Righthanders ",
+    "problem_url": "https://codeforces.com/contest/234/problem/A",
+    "submission_id": "CF80964550",
+    "submission_url": "https://codeforces.com/contest/234/submission/80964550",
+    "tags": [
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "May/23/2020 01:10"
+  },
   "CF80967760": {
     "contest_id": 298,
     "language": "GNU C++14",
