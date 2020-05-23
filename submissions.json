@@ -1,4 +1,22 @@
 {
+  "CF81006068": {
+    "contest_id": 1215,
+    "language": "GNU C++14",
+    "path": "codeforces\\1215\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Yellow Cards",
+    "problem_url": "https://codeforces.com/contest/1215/problem/A",
+    "submission_id": "CF81006068",
+    "submission_url": "https://codeforces.com/contest/1215/submission/81006068",
+    "tags": [
+      "greedy",
+      "implementation",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "May/23/2020 16:39"
+  },
   "CF81007218": {
     "contest_id": 807,
     "language": "GNU C++14",
