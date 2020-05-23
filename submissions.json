@@ -1,4 +1,21 @@
 {
+  "CF81007218": {
+    "contest_id": 807,
+    "language": "GNU C++14",
+    "path": "codeforces\\807\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Is it rated?",
+    "problem_url": "https://codeforces.com/contest/807/problem/A",
+    "submission_id": "CF81007218",
+    "submission_url": "https://codeforces.com/contest/807/submission/81007218",
+    "tags": [
+      "implementation",
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "May/23/2020 16:54"
+  },
   "CF81017937": {
     "contest_id": 672,
     "language": "GNU C++14",
