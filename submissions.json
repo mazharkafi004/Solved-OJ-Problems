@@ -1,4 +1,20 @@
 {
+  "CF81410240": {
+    "contest_id": 675,
+    "language": "GNU C++14",
+    "path": "codeforces\\675\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Infinite Sequence",
+    "problem_url": "https://codeforces.com/contest/675/problem/A",
+    "submission_id": "CF81410240",
+    "submission_url": "https://codeforces.com/contest/675/submission/81410240",
+    "tags": [
+      "math",
+      "*1100"
+    ],
+    "timestamp": "May/26/2020 00:07"
+  },
   "CF81411968": {
     "contest_id": 514,
     "language": "GNU C++14",
