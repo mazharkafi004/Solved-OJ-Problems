@@ -1,4 +1,21 @@
 {
+  "CF81914172": {
+    "contest_id": 353,
+    "language": "GNU C++14",
+    "path": "codeforces\\353\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Domino",
+    "problem_url": "https://codeforces.com/contest/353/problem/A",
+    "submission_id": "CF81914172",
+    "submission_url": "https://codeforces.com/contest/353/submission/81914172",
+    "tags": [
+      "implementation",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "May/29/2020 23:10"
+  },
   "CF81914643": {
     "contest_id": 1358,
     "language": "GNU C++14",
