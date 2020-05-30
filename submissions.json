@@ -1,4 +1,21 @@
 {
+  "CF81987918": {
+    "contest_id": 934,
+    "language": "GNU C++14",
+    "path": "codeforces\\934\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "A Compatible Pair",
+    "problem_url": "https://codeforces.com/contest/934/problem/A",
+    "submission_id": "CF81987918",
+    "submission_url": "https://codeforces.com/contest/934/submission/81987918",
+    "tags": [
+      "brute force",
+      "games",
+      "*1400"
+    ],
+    "timestamp": "May/31/2020 00:11"
+  },
   "CF82039602": {
     "contest_id": 934,
     "language": "GNU C++14",
