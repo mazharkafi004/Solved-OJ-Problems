@@ -1,4 +1,21 @@
 {
+  "CF82039602": {
+    "contest_id": 934,
+    "language": "GNU C++14",
+    "path": "codeforces\\934\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "A Prosperous Lot",
+    "problem_url": "https://codeforces.com/contest/934/problem/B",
+    "submission_id": "CF82039602",
+    "submission_url": "https://codeforces.com/contest/934/submission/82039602",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "May/31/2020 18:36"
+  },
   "CF82040608": {
     "contest_id": 581,
     "language": "GNU C++14",
