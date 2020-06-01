@@ -1,4 +1,22 @@
 {
+  "CF82243329": {
+    "contest_id": 1104,
+    "language": "GNU C++14",
+    "path": "codeforces\\1104\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Splitting into digits",
+    "problem_url": "https://codeforces.com/contest/1104/problem/A",
+    "submission_id": "CF82243329",
+    "submission_url": "https://codeforces.com/contest/1104/submission/82243329",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jun/01/2020 23:34"
+  },
   "CF82320977": {
     "contest_id": 205,
     "language": "GNU C++14",
