@@ -1,4 +1,21 @@
 {
+  "CF82646208": {
+    "contest_id": 794,
+    "language": "GNU C++14",
+    "path": "codeforces\\794\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Cutting Carrot",
+    "problem_url": "https://codeforces.com/contest/794/problem/B",
+    "submission_id": "CF82646208",
+    "submission_url": "https://codeforces.com/contest/794/submission/82646208",
+    "tags": [
+      "geometry",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Jun/05/2020 22:05"
+  },
   "CF82649219": {
     "contest_id": 596,
     "language": "GNU C++14",
