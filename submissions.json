@@ -1,4 +1,21 @@
 {
+  "CF82685452": {
+    "contest_id": 80,
+    "language": "GNU C++14",
+    "path": "codeforces\\80\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Depression",
+    "problem_url": "https://codeforces.com/contest/80/problem/B",
+    "submission_id": "CF82685452",
+    "submission_url": "https://codeforces.com/contest/80/submission/82685452",
+    "tags": [
+      "geometry",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Jun/06/2020 13:51"
+  },
   "CF82780001": {
     "contest_id": 9,
     "language": "GNU C++14",
