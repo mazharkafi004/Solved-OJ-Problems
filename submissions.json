@@ -1,4 +1,23 @@
 {
+  "CF83138738": {
+    "contest_id": 40,
+    "language": "GNU C++14",
+    "path": "codeforces\\40\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Find Color",
+    "problem_url": "https://codeforces.com/contest/40/problem/A",
+    "submission_id": "CF83138738",
+    "submission_url": "https://codeforces.com/contest/40/submission/83138738",
+    "tags": [
+      "constructive algorithms",
+      "geometry",
+      "implementation",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Jun/08/2020 19:22"
+  },
   "CF83237679": {
     "contest_id": 266,
     "language": "GNU C++14",
