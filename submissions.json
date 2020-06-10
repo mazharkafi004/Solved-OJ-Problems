@@ -1,4 +1,20 @@
 {
+  "CF83280325": {
+    "contest_id": 435,
+    "language": "GNU C++14",
+    "path": "codeforces\\435\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Queue on Bus Stop",
+    "problem_url": "https://codeforces.com/contest/435/problem/A",
+    "submission_id": "CF83280325",
+    "submission_url": "https://codeforces.com/contest/435/submission/83280325",
+    "tags": [
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Jun/10/2020 14:06"
+  },
   "CF83325931": {
     "contest_id": 285,
     "language": "GNU C++14",
