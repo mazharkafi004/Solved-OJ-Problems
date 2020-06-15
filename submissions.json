@@ -1,4 +1,21 @@
 {
+  "CF83849988": {
+    "contest_id": 90,
+    "language": "GNU C++14",
+    "path": "codeforces\\90\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Cableway",
+    "problem_url": "https://codeforces.com/contest/90/problem/A",
+    "submission_id": "CF83849988",
+    "submission_url": "https://codeforces.com/contest/90/submission/83849988",
+    "tags": [
+      "greedy",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Jun/15/2020 20:25"
+  },
   "CF83866075": {
     "contest_id": 746,
     "language": "GNU C++14",
