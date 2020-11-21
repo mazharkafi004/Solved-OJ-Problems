@@ -1,0 +1,19 @@
+{
+  "CF99090896": {
+    "contest_id": 520,
+    "language": "GNU C++14",
+    "path": "codeforces\\520\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Pangram",
+    "problem_url": "https://codeforces.com/contest/520/problem/A",
+    "submission_id": "CF99090896",
+    "submission_url": "https://codeforces.com/contest/520/submission/99090896",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Nov/21/2020 14:31"
+  }
+}
