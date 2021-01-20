@@ -1,4 +1,21 @@
 {
+  "CF104900557": {
+    "contest_id": 1445,
+    "language": "GNU C++14",
+    "path": "codeforces\\1445\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Array Rearrangment",
+    "problem_url": "https://codeforces.com/contest/1445/problem/A",
+    "submission_id": "CF104900557",
+    "submission_url": "https://codeforces.com/contest/1445/submission/104900557",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Jan/20/2021 17:59"
+  },
   "CF104906287": {
     "contest_id": 1472,
     "language": "GNU C++14",
