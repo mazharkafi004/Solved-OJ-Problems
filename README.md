@@ -12,7 +12,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-463 | [A - Diamond Miner](https://codeforces.com/contest/1495/problem/A) | [GNU C++14](./codeforces/1495/A.cpp) | `geometry` `greedy` `math` `sortings` `*1200` | Mar/25/2021 17:42 | 
+464 | [A - Diamond Miner](https://codeforces.com/contest/1495/problem/A) | [GNU C++14](./codeforces/1495/A.cpp) | `geometry` `greedy` `math` `sortings` `*1200` | Mar/25/2021 17:42 | 
+463 | [A - Special Permutation](https://codeforces.com/contest/1454/problem/A) | [GNU C++14](./codeforces/1454/A.cpp) | `constructive algorithms` `probabilities` `*800` | Mar/25/2021 16:59 | 
 462 | [A - Pangram](https://codeforces.com/contest/520/problem/A) | [GNU C++14](./codeforces/520/A.cpp) | `implementation` `strings` `*800` | Nov/21/2020 14:31 | 
 461 | [B - Reversing Encryption](https://codeforces.com/contest/999/problem/B) | [GNU C++14](./codeforces/999/B.cpp) | `implementation` `*900` | Sep/02/2020 11:17 | 
 460 | [A - Mishka and Contest](https://codeforces.com/contest/999/problem/A) | [GNU C++14](./codeforces/999/A.cpp) | `brute force` `implementation` `*800` | Sep/02/2020 11:05 | 
