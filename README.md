@@ -12,14 +12,15 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-483 | [A - Spy Detected!](https://codeforces.com/contest/1512/problem/A) | [GNU C++17](./codeforces/1512/A.cpp) | `brute force` `implementation` `*800` | Mar/21/2022 21:06 | 
-482 | [A - Triangle](https://codeforces.com/contest/6/problem/A) | [GNU C++14](./codeforces/6/A.cpp) | `brute force` `geometry` `*900` | Aug/05/2021 22:01 | 
-481 | [A - Ksusha and Array](https://codeforces.com/contest/299/problem/A) | [GNU C++14](./codeforces/299/A.cpp) | `brute force` `number theory` `sortings` `*1000` | Jul/28/2021 23:48 | 
-480 | [A - Bear and Three Balls](https://codeforces.com/contest/653/problem/A) | [GNU C++14](./codeforces/653/A.cpp) | `brute force` `implementation` `sortings` `*900` | Jul/28/2021 23:33 | 
-479 | [A - Buggy Sorting](https://codeforces.com/contest/246/problem/A) | [GNU C++14](./codeforces/246/A.cpp) | `constructive algorithms` `greedy` `sortings` `*900` | Jul/28/2021 22:16 | 
-478 | [B - Watering System](https://codeforces.com/contest/967/problem/B) | [GNU C++14](./codeforces/967/B.cpp) | `math` `sortings` `*1000` | Jul/28/2021 22:05 | 
-477 | [B - Network Configuration](https://codeforces.com/contest/412/problem/B) | [GNU C++14](./codeforces/412/B.cpp) | `greedy` `sortings` `*900` | Jul/28/2021 21:50 | 
-476 | [A - Dragons](https://codeforces.com/contest/230/problem/A) | [GNU C++14](./codeforces/230/A.cpp) | `greedy` `sortings` `*1000` | Jul/28/2021 21:20 | 
+484 | [A - Spy Detected!](https://codeforces.com/contest/1512/problem/A) | [GNU C++17](./codeforces/1512/A.cpp) | `brute force` `implementation` `*800` | Mar/21/2022 21:06 | 
+483 | [A - Triangle](https://codeforces.com/contest/6/problem/A) | [GNU C++14](./codeforces/6/A.cpp) | `brute force` `geometry` `*900` | Aug/05/2021 22:01 | 
+482 | [A - Ksusha and Array](https://codeforces.com/contest/299/problem/A) | [GNU C++14](./codeforces/299/A.cpp) | `brute force` `number theory` `sortings` `*1000` | Jul/28/2021 23:48 | 
+481 | [A - Bear and Three Balls](https://codeforces.com/contest/653/problem/A) | [GNU C++14](./codeforces/653/A.cpp) | `brute force` `implementation` `sortings` `*900` | Jul/28/2021 23:33 | 
+480 | [A - Buggy Sorting](https://codeforces.com/contest/246/problem/A) | [GNU C++14](./codeforces/246/A.cpp) | `constructive algorithms` `greedy` `sortings` `*900` | Jul/28/2021 22:16 | 
+479 | [B - Watering System](https://codeforces.com/contest/967/problem/B) | [GNU C++14](./codeforces/967/B.cpp) | `math` `sortings` `*1000` | Jul/28/2021 22:05 | 
+478 | [B - Network Configuration](https://codeforces.com/contest/412/problem/B) | [GNU C++14](./codeforces/412/B.cpp) | `greedy` `sortings` `*900` | Jul/28/2021 21:50 | 
+477 | [A - Dragons](https://codeforces.com/contest/230/problem/A) | [GNU C++14](./codeforces/230/A.cpp) | `greedy` `sortings` `*1000` | Jul/28/2021 21:20 | 
+476 | [A - Spyke Talks](https://codeforces.com/contest/291/problem/A) | [GNU C++14](./codeforces/291/A.cpp) | `*special problem` `implementation` `sortings` `*800` | Jul/28/2021 13:27 | 
 475 | [A - Diamond Miner](https://codeforces.com/contest/1495/problem/A) | [GNU C++14](./codeforces/1495/A.cpp) | `geometry` `greedy` `math` `sortings` `*1200` | Mar/25/2021 17:42 | 
 474 | [A - Special Permutation](https://codeforces.com/contest/1454/problem/A) | [GNU C++14](./codeforces/1454/A.cpp) | `constructive algorithms` `probabilities` `*800` | Mar/25/2021 16:59 | 
 473 | [A - Red-Blue Shuffle](https://codeforces.com/contest/1459/problem/A) | [GNU C++14](./codeforces/1459/A.cpp) | `math` `probabilities` `*800` | Mar/25/2021 16:51 | 
