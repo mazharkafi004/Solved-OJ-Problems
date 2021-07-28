@@ -12,9 +12,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-478 | [A - Spy Detected!](https://codeforces.com/contest/1512/problem/A) | [GNU C++17](./codeforces/1512/A.cpp) | `brute force` `implementation` `*800` | Mar/21/2022 21:06 | 
-477 | [A - Triangle](https://codeforces.com/contest/6/problem/A) | [GNU C++14](./codeforces/6/A.cpp) | `brute force` `geometry` `*900` | Aug/05/2021 22:01 | 
-476 | [A - Ksusha and Array](https://codeforces.com/contest/299/problem/A) | [GNU C++14](./codeforces/299/A.cpp) | `brute force` `number theory` `sortings` `*1000` | Jul/28/2021 23:48 | 
+479 | [A - Spy Detected!](https://codeforces.com/contest/1512/problem/A) | [GNU C++17](./codeforces/1512/A.cpp) | `brute force` `implementation` `*800` | Mar/21/2022 21:06 | 
+478 | [A - Triangle](https://codeforces.com/contest/6/problem/A) | [GNU C++14](./codeforces/6/A.cpp) | `brute force` `geometry` `*900` | Aug/05/2021 22:01 | 
+477 | [A - Ksusha and Array](https://codeforces.com/contest/299/problem/A) | [GNU C++14](./codeforces/299/A.cpp) | `brute force` `number theory` `sortings` `*1000` | Jul/28/2021 23:48 | 
+476 | [A - Bear and Three Balls](https://codeforces.com/contest/653/problem/A) | [GNU C++14](./codeforces/653/A.cpp) | `brute force` `implementation` `sortings` `*900` | Jul/28/2021 23:33 | 
 475 | [A - Diamond Miner](https://codeforces.com/contest/1495/problem/A) | [GNU C++14](./codeforces/1495/A.cpp) | `geometry` `greedy` `math` `sortings` `*1200` | Mar/25/2021 17:42 | 
 474 | [A - Special Permutation](https://codeforces.com/contest/1454/problem/A) | [GNU C++14](./codeforces/1454/A.cpp) | `constructive algorithms` `probabilities` `*800` | Mar/25/2021 16:59 | 
 473 | [A - Red-Blue Shuffle](https://codeforces.com/contest/1459/problem/A) | [GNU C++14](./codeforces/1459/A.cpp) | `math` `probabilities` `*800` | Mar/25/2021 16:51 | 

@@ -224,6 +224,24 @@
     ],
     "timestamp": "Mar/25/2021 17:42"
   },
+  "CF124055440": {
+    "contest_id": 653,
+    "language": "GNU C++14",
+    "path": "codeforces\\653\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Bear and Three Balls",
+    "problem_url": "https://codeforces.com/contest/653/problem/A",
+    "submission_id": "CF124055440",
+    "submission_url": "https://codeforces.com/contest/653/submission/124055440",
+    "tags": [
+      "brute force",
+      "implementation",
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "Jul/28/2021 23:33"
+  },
   "CF124056401": {
     "contest_id": 299,
     "language": "GNU C++14",
