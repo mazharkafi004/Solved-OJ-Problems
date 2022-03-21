@@ -12,6 +12,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+491 | [B - Food Buying](https://codeforces.com/contest/1296/problem/B) | [GNU C++17](./codeforces/1296/B.cpp) | `math` `*900` | Mar/22/2022 01:09 | 
 490 | [A - Spy Detected!](https://codeforces.com/contest/1512/problem/A) | [GNU C++17](./codeforces/1512/A.cpp) | `brute force` `implementation` `*800` | Mar/21/2022 21:06 | 
 489 | [A - Triangle](https://codeforces.com/contest/6/problem/A) | [GNU C++14](./codeforces/6/A.cpp) | `brute force` `geometry` `*900` | Aug/05/2021 22:01 | 
 488 | [A - Ksusha and Array](https://codeforces.com/contest/299/problem/A) | [GNU C++14](./codeforces/299/A.cpp) | `brute force` `number theory` `sortings` `*1000` | Jul/28/2021 23:48 | 
