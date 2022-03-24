@@ -8,7 +8,7 @@ int main()
    cin >> t;
    while (t--)
    {
-      long long x, y;
+      int x, y;
       cin >> x >> y;
       if (x == 0 && y == 0)
       {
@@ -16,7 +16,7 @@ int main()
       }
       else
       {
-         long long a = pow(((x * x) + (y * y)), 0.5);
+         int a = pow(((x * x) + (y * y)), 0.5);
          if ((a *a) == ((x * x) + (y * y)))
          {
             cout << 1 << endl;
